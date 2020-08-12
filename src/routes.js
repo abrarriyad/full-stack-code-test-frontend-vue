@@ -1,5 +1,5 @@
 import Login from './components/Login.vue'
-import Register from './components/RegisterForm.vue'
+import Register from './components/Register.vue'
 import Home from './components/Home.vue'
 import Logout from './components/Logout.vue'
 import Services from './components/Services.vue'
